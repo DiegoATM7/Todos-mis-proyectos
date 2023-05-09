@@ -1,0 +1,12 @@
+body {
+text-align:center;
+}
+h1 {
+font-size: 40px;
+font-family:'Shantell Sans',cursive;
+font-weight:3000 ;
+}
+#mycarrousel img{
+height:300px;
+width:200px;
+}
